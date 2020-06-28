@@ -13,4 +13,5 @@ private Personne p=new Personne();
 	void fakeFct() {
 		assertEquals(4, 2*2);
 	}
+	test;
 }
