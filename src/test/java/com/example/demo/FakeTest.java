@@ -13,4 +13,8 @@ private Personne p=new Personne();
 	void fakeFct() {
 		assertEquals(4, 2*2);
 	}
+	@Test
+	void fakeFct2() {
+		assertEquals(3, 2*2);
+	}
 }
